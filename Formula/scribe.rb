@@ -1,8 +1,8 @@
 class Scribe < Formula
   desc "Personal productivity CLI/TUI agent companion"
   homepage "https://github.com/johan-steffens/scribe"
-  url "https://github.com/johan-steffens/scribe/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "5182bfc8a98922d9b1071e3e7b795e73baa47c99080ab7d188299f5c98f075a8"
+  url "https://github.com/johan-steffens/scribe/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "2dac80d62b3d8c12b84d9b6e8ae9d039856b302bdbf5b879b78d417f65eda0b2"
   license "MIT"
 
   depends_on "rust" => :build
